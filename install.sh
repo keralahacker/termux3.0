@@ -21,6 +21,8 @@ clear
 figlet 3
 sleep 1
 clear
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1
+clear 
 ##...................... Read well & do copy cat
 ##............. this tool helps you to custom termux welcome page + prompt header in zsh
 pkg update -y
