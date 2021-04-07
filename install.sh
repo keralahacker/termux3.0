@@ -1,8 +1,8 @@
 ##########################################
 ##########################################
-### https://github.com/keralahacker/termux3.0      ###
-###                                                                                      ###
-###                  https://keralahacker.github.io               ###
+### https://github.com/lucifer/termux3.0      ###
+###                                o                                                      ###
+###                  https://lucifer.github.io               ###
 ###                                                                                      ###
 ##########################################
 ##########################################
@@ -46,9 +46,9 @@ echo "   " >> /data/data/com.termux/files/usr/etc/motd
 echo "  zsh
                 figlet see you | pv -qL 100
                 echo "......................................!" | pv -qL 100
-                echo "hack_with_vyshu" | pv -qL 15
+                echo "Lucifer_the_morning_star" | pv -qL 15
                 exit
-                echo "hack_with_vyshu" | pv -qL 500  " >> .bashrc
+                echo "Lucifer_the_morning_star" | pv -qL 500  " >> .bashrc
 ## echoing .zshrc file
 echo "
 sleep 3
